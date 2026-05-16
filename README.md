@@ -2,7 +2,7 @@
 
 > **Portfolio:** [salomigandra.com](https://salomigandra.com) · [LinkedIn](https://www.linkedin.com/in/salomisabastian) · [Email](mailto:salomigandra234@gmail.com)
 
-Six independently researched data analytics case studies covering macroeconomics, public health, environmental policy, and healthcare. Each study includes a clear business question, real sourced data, documented methodology, reproducible code, and a decision-ready recommendation.
+data analytics case studies covering macroeconomics, public health, environmental policy, and healthcare. Each study includes a clear business question, real sourced data, documented methodology, reproducible code, and a decision-ready recommendation.
 
 ---
 
@@ -104,8 +104,5 @@ Each case study follows the same analytical process:
 
 ---
 
-## About
-
-**Salomi Gandra** — Data Analyst with an M.S. in Computer & Information Science and a web development background. I combine SQL, Python, Excel, and data storytelling to analyze real-world problems and translate them into clear decisions.
 
 *All data used is publicly available. Sources are cited in each case study's README and data dictionary.*
