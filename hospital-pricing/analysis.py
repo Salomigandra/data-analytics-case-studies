@@ -2,7 +2,7 @@
 U.S. Hospital Price Audit
 ==========================
 Author  : Salomi Gandra
-Portfolio: salomigandra.com
+Portfolio: salomigandra.me
 GitHub  : github.com/salomigandra/data-analytics-case-studies
 
 Business Question
