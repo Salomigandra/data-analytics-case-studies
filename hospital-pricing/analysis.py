@@ -5,7 +5,7 @@ Author  : Salomi Gandra
 Portfolio: salomigandra.me
 GitHub  : github.com/salomigandra/data-analytics-case-studies
 
-Business Question
+Problem Statement
 -----------------
 By how much do U.S. hospitals charge private insurers above Medicare rates,
 which procedure categories show the highest markups, and how compliant
