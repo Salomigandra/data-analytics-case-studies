@@ -1,6 +1,6 @@
 # Data Analytics Case Studies — Salomi Gandra
 
-> **Portfolio:** [salomigandra.com](https://salomigandra.com) · [LinkedIn](https://www.linkedin.com/in/salomisabastian) · [Email](mailto:salomigandra234@gmail.com)
+> **Portfolio:** [salomigandra.com](https://salomigandra.me) · [LinkedIn](https://www.linkedin.com/in/salomisabastian) · [Email](mailto:salomigandra234@gmail.com)
 
 data analytics case studies covering macroeconomics, public health, environmental policy, and healthcare. Each study includes a clear business question, real sourced data, documented methodology, reproducible code, and a decision-ready recommendation.
 
