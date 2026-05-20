@@ -33,14 +33,14 @@
 | Mar 4–27 | Brent rises from $72.5 → $112.6 — a 55% spike in under 4 weeks |
 | Mar 27 | India cuts excise duty on petrol and diesel by ₹10/L |
 | Apr 1, 2026 | ATF price doubles to ₹2,07,341/kl (+114.5%) |
-| Apr–May 2026 | Brent above $115; OMC cumulative losses ~₹1 lakh Cr; rupee hits ₹95.7/$ intraday |
+| Apr–May 2026 | Brent near $110–115; OMC cumulative losses ~₹1 lakh Cr; rupee hits ₹96.96/$ intraday (₹96.82 closing) on May 20 |
 | May 10–11 | PM Modi makes public appeal on WFH, gold imports, travel, and fuel use |
 
 ---
 
 ## Assumptions & Data Notes
 
-- **Exchange rates:** ₹95.7/$ = intraday low (May 2026, Federal Reserve H.10 / RBI DBIE); ₹94.5/$ = May 2026 closing average used in household calculations; ₹85.5/$ = May 2025 baseline
+- **Exchange rates:** ₹96.96/$ = intraday low (May 20, 2026); ₹96.82/$ = May 20, 2026 closing rate (Federal Reserve H.10 / RBI DBIE) — used in household calculations; ₹85.5/$ = May 2025 baseline
 - **Crude prices:** $72.5/barrel = pre-crisis baseline (Feb 2026 start); $114/barrel = peak reported by CNBC/EIA
 - **OMC under-recovery:** ₹14/L petrol, ₹42/L diesel — derived from IOCL/BPCL quarterly disclosures and Business Standard reporting
 - **Household impact:** Scenario-based; uses simplified linear pass-through. Actual impact depends on government pricing decisions. Not a forecast.
@@ -79,8 +79,9 @@ Where:
 - `Duty_Margin_Factor = 1.45` = excise duty + dealer margin multiplier
 
 **Baseline** (Feb 2026): Brent $72.5, ₹85.5/$ → model pump price ≈ ₹88.5/litre  
-**Shock** (May 2026): Brent $114, ₹94.5/$ → model pump price ≈ ₹146.2/litre  
-**Theoretical shock = +65%** (actual pump prices frozen by government policy)
+**Shock** (May 20, 2026): Brent ~$110, ₹96.82/$ → model pump price ≈ ₹148.8/litre  
+**Actual administered prices (May 20, 2026):** Delhi petrol ₹98.64/L · Delhi diesel ₹91.58/L · Mumbai petrol ₹107.59/L · Hyderabad petrol ₹111.84/L  
+**Theoretical free-market shock = ~+68%** vs Feb 2026 baseline (actual prices frozen by government)
 
 ### 2. OMC Daily Under-Recovery
 
@@ -108,7 +109,7 @@ Shock applied proportionally: bottom quintile faces 2.6× greater **relative** b
 
 ## Key Findings
 
-1. **~65% theoretical pump price shock** — compound effect of crude spike ($72.5→$114) + rupee depreciation (₹85.5→₹94.5); actual pump prices frozen by government policy
+1. **~68% theoretical pump price shock** — compound effect of crude spike ($72.5→$110) + rupee depreciation (₹85.5→₹96.82 as of May 20, 2026); actual administered prices held well below this by government policy
 2. **₹1,700 Cr/day OMC under-recoveries** — cumulative ~₹1 lakh Cr over 10 weeks
 3. **Regressive impact** — lowest quintile spends 8.2% of income on fuel vs 3.1% for top quintile
 4. **ATF crisis** — Aviation Turbine Fuel doubled to ₹2,07,341/kl (+114.5%) as of April 1, 2026; airline cost share rose from 30–40% to 55–60%
